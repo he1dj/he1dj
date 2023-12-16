@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @he1dj
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Python and JavaScript for web development
+- 🌱 I’m currently learning Python and JavaScript/Typescript for web development
 - 📫 How to reach me: Telegram – t.me/he1dj
